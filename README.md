@@ -1,10 +1,14 @@
-- 👋 oi, sou @DaniBoyAF e atualmente estudo na cesar school no primeiro périodo de CC (ciencia da computação ), Gosto muito dessa área pois possibilita usar toda criatividade
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning Python, HTML5, CSS3, JS.
-- 💞️ I’m looking to collaborate on as well as AI and game development.
-- 📫 How to reach me moongames12345@gmail.com and danielandradef2006@gmail.com
-- 😄 Pronouns: him/he
-- ⚡ Fun fact: I like to learn new things
+- 👋 oi, sou @DaniBoyAF porque AF (Daniel Andrade Ferreira) e atualmente estudo na cesar school no primeiro périodo de CC (ciencia da computação ), Gosto muito dessa área pois possibilita usar toda criatividade.
+- 👀 Estou interessado em **desenvolvimento de jogos**.  
+- 🌱 Atualmente estou aprendendo **Python, HTML5, CSS3, JS**.  
+- 💞️ Estou buscando colaborar em projetos de **IA e desenvolvimento de jogos**.
+- 
+- 📫 Como me encontrar: **moongames12345@gmail.com** e **danielandradef2006@gmail.com**.  
+- 😄 Pronomes: **ele/dele**.  
+- ⚡ Curiosidade: **Gosto de aprender coisas novas**.  
+
 ## 📊 GitHub Stats
 
 ![DaniBoyAF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniBoyAF&show_icons=true&theme=dark)  
+## Projetos Da faculdade
+![Python]C:\Users\danie\Downloads\projeto.zip
