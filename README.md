@@ -10,5 +10,7 @@
 ## 📊 GitHub Stats
 
 ![DaniBoyAF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniBoyAF&show_icons=true&theme=dark)  
-## Projetos Da faculdade
-![Python]C:\Users\danie\Downloads\projeto.zip
+## Portifolio
+
+## Como me encontrar:
+ **moongames12345@gmail.com** e **danielandradef2006@gmail.com** e (https://www.linkedin.com/in/daniel-andrade-36a489326/)
