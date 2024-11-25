@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaniBoyAF
+- 👋 oi, sou @DaniBoyAF e atualmente estudo na cesar school no primeiro périodo de CC (ciencia da computação ), Gosto muito dessa área pois possibilita usar toda criatividade
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Python, HTML5, CSS3, JS.
 - 💞️ I’m looking to collaborate on as well as AI and game development.
