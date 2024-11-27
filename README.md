@@ -25,7 +25,7 @@ Minha meta é criar soluções que façam a diferença, combinando criatividade 
 Se quiser conversar, colaborar ou apenas trocar ideias, aqui estão meus contatos:  
 - **Email:** [moongames12345@gmail.com](mailto:moongames12345@gmail.com)  
 - **Email alternativo:** [danielandradef2006@gmail.com](mailto:danielandradef2006@gmail.com)  
-- **Linkedln:**(https://www.linkedin.com/in/daniel-andrade-36a489326/)
+- **Linkedln:** https://www.linkedin.com/in/daniel-andrade-36a489326/
 ---
 
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato! 😊
