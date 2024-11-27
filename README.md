@@ -28,4 +28,4 @@ Se quiser conversar, colaborar ou apenas trocar ideias, aqui estão meus contato
 - **Linkedln:** https://www.linkedin.com/in/daniel-andrade-36a489326/
 ---
 
-Sinta-se à vontade para explorar meus repositórios ou entrar em contato! 😊
+
