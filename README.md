@@ -28,6 +28,3 @@ Se quiser conversar, colaborar ou apenas trocar ideias, aqui estão meus contato
 - **Linkedln:** https://www.linkedin.com/in/daniel-andrade-36a489326/
 ---
 
-## 👌Meu Portfólio
-Se quiser saber um pouco mais sobre :
-- **Portfólio**http://127.0.0.1:5500/.vscode/Untitled-1.html
