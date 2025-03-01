@@ -1,6 +1,6 @@
 # 👋 Olá, sou @DaniBoyAF!
 
-Meu nome é **Daniel Andrade Ferreira (DaniBoyAF)**, atualmente estudante do **primeiro período de Ciência da Computação (CC)** na **Cesar School**. Sou apaixonado por tecnologia, e vejo na computação uma forma incrível de transformar ideias em realidade, combinando lógica e criatividade.
+Meu nome é **Daniel Andrade Ferreira (DaniBoyAF)**, atualmente estudante do **segundo período de Ciência da Computação (CC)** na **Cesar School**. Sou apaixonado por tecnologia, e vejo na computação uma forma incrível de transformar ideias em realidade, combinando lógica e criatividade.
 
 ---
 
